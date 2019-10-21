@@ -1,0 +1,14 @@
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\hopefully.csprojAssemblyReference.cache
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\bin\Debug\netstandard2.0\hopefully.deps.json
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\bin\Debug\netstandard2.0\hopefully.dll
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\bin\Debug\netstandard2.0\ref\hopefully.dll
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\bin\Debug\netstandard2.0\hopefully.pdb
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\Loginpage.xaml.g.cs
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\hopefully.AssemblyInfoInputs.cache
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\hopefully.AssemblyInfo.cs
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\hopefully.dll
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\ref\hopefully.dll
+C:\Users\Hello\source\repos\hopefully\hopefully\hopefully\obj\Debug\netstandard2.0\hopefully.pdb
